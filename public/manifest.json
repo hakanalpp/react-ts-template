@@ -1,0 +1,9 @@
+{
+  "short_name": "React with ts",
+  "name": "React with Typescript template created by Hakan Alp",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
