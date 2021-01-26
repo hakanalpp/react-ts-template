@@ -36,7 +36,7 @@
       }
     ],
     "prettier/prettier": "error",
-    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "warn",
     "react/jsx-one-expression-per-line": "off",
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": ["error"]
