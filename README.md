@@ -2,7 +2,7 @@
 
 This is a React template that I built for myself. I am getting this template when starting a new project.  
 
-## Tech Used
+## Tech Used 
 
 - `Typescript`
 - `react-router`
